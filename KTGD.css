@@ -1,0 +1,22 @@
+﻿/* 로고 */
+
+
+header .row>div:nth-child(1)>a {
+
+    display: block;
+
+    width: 100px;
+
+    height: 50px;
+
+    background: urlhttps://github.com/Nakzzi/kiromi/blob/master/KTGD.png?raw=true) no-repeat; /* url(로고 경로 입력) */
+
+    background-size: auto 50px;
+
+}
+
+
+
+header .row > div:nth-child(1)>a img { 
+    display:none; 
+}
