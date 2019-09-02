@@ -2,9 +2,9 @@
 :root {
 	--bgColor: #f0f0f0;   /* 배경 색 */
 	--mainColor: #179341;   /* 메인 컬러 */
-	--mainColor5: #77777755; /* 공지, 인기글 hover */
-	--mainColor3: #77777733; /* 공지, 인기글 */
-	--mainColor2: #77777722; /* 트게더 메뉴, 게시글 hover */
+	--mainColor5: #89ff3655; /* 공지, 인기글 hover */
+	--mainColor3: #77ff3633; /* 공지, 인기글 */
+	--mainColor2: #24b50322; /* 트게더 메뉴, 게시글 hover */
 	--before: ""; /* 접속자 수 앞 문구 */
 	--after: "";  /* 접속자 수 뒤 문구 */
 }
